@@ -11,3 +11,6 @@ Outside of computing I enjoy fitness :muscle: & reading :scroll: & binge-watchin
 Thank you for taking the time! :beers:  
 All the best!  
 Nick.
+
+Blog: https://medium.com/@njgibbon  
+LinkedIn: https://www.linkedin.com/in/nick-gibbon-b87121172/
