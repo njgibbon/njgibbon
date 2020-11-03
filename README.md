@@ -12,5 +12,5 @@ Thank you for taking the time! :beers:
 All the best!  
 Nick.
 
-Blog: https://medium.com/@njgibbon  
-LinkedIn: https://www.linkedin.com/in/nick-gibbon-b87121172/
+**LinkedIn**: https://www.linkedin.com/in/nick-gibbon-b87121172/  
+**Blog**: https://medium.com/@njgibbon
