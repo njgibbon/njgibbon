@@ -15,7 +15,7 @@ I'm currently most interested in automation, testing, monitoring & documentation
 * I highly value learning & try to keep up with modern IT through a variety of mediums. 
 * I enjoy maintaining my own blog & have found it so useful that I expect I will keep this up in some form or other for a very long time.
 
-Outside of computing I enjoy fitness :muscle: & reading :scroll: & binge-watching :tv: & various normal things. I'm mainly concerned about living a balanced life :balance_scale: where my time :watch: is allgined with my values.
+Outside of computing I enjoy fitness :muscle:, reading :scroll:, binge-watching :tv: & various normal things. I'm mainly concerned about living a balanced life :balance_scale: where my time :watch: is allgined with my values.
 
 Thank you for taking the time! :beers:  
 All the best!  
