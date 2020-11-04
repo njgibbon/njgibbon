@@ -2,13 +2,13 @@ Hello,
 
 I'm Nick & I live in London in the UK. :city_sunrise:
 
-I've wanted to work in software development since I first used Visual Basic 6 🔥. Suddenly, you have the power to make things. It's practical & creative & yet it's all logic-based - all controlled by some special words in a text file. From there, it's only a short leap to recognising that this ability can help real people in lots of different & interesting ways. This led to studying Computer Science & ultimately to wherever it is I am now!
+I've wanted to work in software development :unlock: since I first used Visual Basic 6 🔥. Suddenly, you have the power to make things. It's practical & creative & yet it's all logic-based - all controlled by some special words in a text file. From there, it's only a short leap to recognising that this ability can help real people in lots of different & interesting ways. This led to studying Computer Science & ultimately to wherever it is I am now!
 
 Most of my experience is within different large, complex, multi-team, multi-vendor IT organisations with lots of stakeholders & competing concerns :clipboard::comet::office::rainbow::crystal_ball:. Through this & wider learning I value any domain that improves values streams in an enterprise :rocket:. Organisational design, team interactions, communication channels, collaboration techniques, improvement processes etc. where bottlenecks :champagne: can often be identified & carefully adjusted.
 
-TODO: Current specialism & interests.
+I specialise in the building & operation of software Platforms. I see this as packaging logical collections of infrastructure, tools, services & process together for consumption to make it much easier for development teams to create high quality software. This can unlock :unlock: really dynamic feature delivery as teams can focus on direct user-value and the Platform can **help** cover many important common concerns such as security, reliability & observability.
 
-Currently most interested in automation, testing, monitoring & documentation.
+I'm currently most interested in automation, testing, monitoring & documentation.
 
 * I strongly advocate for continual, sustainable, incremental improvement as *generally* the best method to achieve any goal. 
 * I'm a minimalist and am always looking to make things simpler, clearer & more impactful. 
