@@ -6,7 +6,7 @@ I've wanted to work in software development :unlock: since I first used Visual B
 
 Most of my experience is within different large, complex, multi-team, multi-vendor IT organisations with lots of stakeholders & competing concerns :clipboard::comet::office::rainbow::crystal_ball:. Through this & wider learning I value any domain that improves values streams in an enterprise :rocket:. Organisational design, team interactions, communication channels, collaboration techniques, improvement processes etc. where bottlenecks :champagne: can often be identified & carefully adjusted.
 
-I specialise in the building & operation of software Platforms. I see this as packaging logical collections of infrastructure, tools, services & process together for consumption to make it much easier for development teams to create high quality software. This can unlock :unlock: really dynamic feature delivery as teams can focus on direct user-value and the Platform can **help** cover many important common concerns such as security, reliability & observability.
+I specialise in the building & operation of software Platforms. I see this as packaging logical collections of infrastructure, tools, services & process :hammer::earth_africa:wrench: together for consumption to make it much easier for development teams to create high quality software. This can unlock :unlock: really dynamic (and safe!!) feature delivery as teams can focus on direct user-value and the Platform(s) can **help** cover many important common concerns such as security, reliability & observability.
 
 I'm currently most interested in automation, testing, monitoring & documentation.
 
