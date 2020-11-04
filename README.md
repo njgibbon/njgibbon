@@ -8,6 +8,8 @@ Most of my experience is within different large, complex, multi-team, multi-vend
 
 TODO: Current specialism & interests.
 
+Currently most interested in automation, testing, monitoring & documentation.
+
 * I strongly advocate for continual, sustainable, incremental improvement as *generally* the best method to achieve any goal. 
 * I'm a minimalist and am always looking to make things simpler, clearer & more impactful. 
 * I highly value learning & try to keep up with modern IT through a variety of mediums. 
