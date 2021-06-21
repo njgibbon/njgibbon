@@ -8,7 +8,7 @@ Most of my experience is within large, complex, multi-team, multi-vendor IT orga
 
 I specialise in the building & operation of software Platforms. I see this as packaging logical collections of infrastructure, tools, services & process :hammer::earth_africa::wrench: together for consumption to make it much easier for development teams to create high quality software. This can unlock :unlock: really dynamic (and safe!!) feature delivery as teams can focus on direct user-value and the Platform(s) can **help** cover many important common concerns such as security, reliability & observability. :trophy::gun::dragon:
 
-I'm currently most interested in all sorts of automated testing, scanning & monitoring at all levels of the stack. I always like hardening, reducing technical debt and generally making things more stable and reliable.
+I'm currently most interested in all sorts of automated testing, scanning & monitoring at all levels of the stack. I always like hardening, reducing technical debt & generally making things more stable & reliable.
 
 * I strongly advocate for continual, sustainable, incremental improvement as *generally* the best method to achieve any goal. 
 * I'm a minimalist and am always looking to make things simpler, clearer & more impactful. 
