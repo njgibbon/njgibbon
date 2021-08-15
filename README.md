@@ -22,6 +22,6 @@ Thank you for taking the time! :beers:
 All the best!  
 Nick.
 
-**Site**: https://pareture.xyz
-**Blog**: https://medium.com/@njgibbon
+**Site**: https://pareture.xyz  
+**Blog**: https://medium.com/@njgibbon  
 **LinkedIn**: https://www.linkedin.com/in/nick-gibbon-b87121172
