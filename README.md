@@ -19,7 +19,7 @@ Most of my experience is within large, complex, multi-team, multi-vendor Technol
 
 #### Other
 * I strongly advocate for continual, sustainable, incremental improvement as *generally* the best method to achieve any goal. 
-* I'm a minimalist and am always looking to make things simpler, clearer & more impactful. 
+* I'm a minimalist and am always looking to make things simpler, stabler, clearer & more impactful. 
 
 Outside of computing I enjoy fitness :muscle:, football :soccer:, reading :scroll: & all lots of normal stuff :tv:. I'm mainly concerned about living a balanced life :balance_scale: where my time :watch: is allgined with my values.
 
