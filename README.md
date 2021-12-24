@@ -24,8 +24,7 @@ Most of my experience is within large, complex, multi-team, multi-vendor Technol
 Outside of computing I enjoy fitness :muscle:, football :soccer:, reading :scroll: & all lots of normal stuff :tv:. I'm mainly concerned about living a balanced life :balance_scale: where my time :watch: is allgined with my values.
 
 
-Thank you for taking the time! :beers:  
-All the best!  
+Thank you for taking the time! :beers:   
 Nick.
 
 #### Links
