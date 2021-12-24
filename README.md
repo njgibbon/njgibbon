@@ -15,7 +15,7 @@ Most of my experience is within large, complex, multi-team, multi-vendor Technol
 #### Work
 1. Building Software Platforms.
 1. Infrastructure, Automation and Non-Functional Requirements for Custom Software Products.
-1. Custom Development to my related to my Skill Areas.
+1. Custom Development in my related to my Skill Areas.
 
 #### Other
 * I strongly advocate for continual, sustainable, incremental improvement as *generally* the best method to achieve any goal. 
