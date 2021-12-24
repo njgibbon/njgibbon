@@ -2,7 +2,7 @@ Hello,
 
 I'm Nick & I live in London in the UK. :city_sunrise:
 
-### Background
+#### Background
 I've wanted to work in Software Development :computer: since I first used Visual Basic 6 🔥. Suddenly, you have the power to make things. It's practical & creative & yet it's all logic-based - all controlled by some special words in a text file. I recognised that this ability can help solve problems and sustain an interesting work life. This led to studying Computer Science & ultimately to wherever it is I am now!
 
 Most of my experience is within large, complex, multi-team, multi-vendor Technology Organisations with lots of stakeholders & dependency & competing concerns :clipboard::comet::office::rainbow::crystal_ball:. Through this & wider learning I value all activies that can impact value streams :rocket:. Organisational design, team interactions, improvement processes etc. where bottlenecks :champagne: can often be identified & carefully adjusted.
