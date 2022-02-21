@@ -9,7 +9,7 @@ Most of my experience is within large, complex, multi-team, multi-vendor Technol
 
 #### Skills (to varying degrees)
 * Automation, Cloud (AWS), Kubernetes, Linux, Networking.
-* Operations, Security, Observability, Reliability, DX.
+* Operations, Security, Observability, Reliability, FinOps, DX.
 * Mentoring, Collaboration, Improvement, Leadership.
 
 #### Work
