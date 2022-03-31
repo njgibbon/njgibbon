@@ -21,7 +21,7 @@ Most of my experience is within large, complex, multi-team, multi-vendor Enterpr
 * I strongly advocate for continual, sustainable, incremental improvement as *generally* the best method to achieve any goal. 
 * I'm a minimalist and am always looking to make things simpler, stabler, clearer & more impactful. 
 
-Outside of computing I enjoy health :herb::muscle:, football :soccer:, reading :scroll: & lots of normal things :tv:. I'm mainly concerned about living a balanced life :balance_scale: where my time :watch: is aligned with my values.
+Outside of computing I enjoy health :herb::muscle:, football :soccer:, reading :scroll: & lots of normal things :tv::cocktail:. I'm mainly concerned about living a balanced life :balance_scale: where my time :watch: is aligned with my values.
 
 
 Thank you for taking the time! :beers:   
