@@ -13,6 +13,7 @@ Most of my experience is within large, complex Enterprise Technology environment
 * Mentoring, Collaboration, Improvement, Leadership.
 
 #### Work
+1. Engineering Management in Cloud Infrastructure, Platforms & Tools.
 1. Building Internal Software *Platforms*.
 1. Infrastructure, Automation and Non-Functional Requirements for Custom Software Products.
 1. Custom Development related to my knowledge domains.
