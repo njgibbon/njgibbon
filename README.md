@@ -19,7 +19,6 @@ Most of my experience is within large, complex enterprise technology environment
 1. Custom development related to the areas I work in.
 
 #### Learning
-Current personal development focus:
 * Linux.
 * Security.
 
