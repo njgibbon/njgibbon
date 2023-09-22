@@ -21,6 +21,9 @@ I am consciously growing strong roots as a technical leader by learning, doing &
 1. Infrastructure, operations, automation & non-functional requirements for custom software products.
 1. Custom development related to the areas I work in.
 
+#### Good at
+TODO
+
 #### Roles
 Something with *Systems*, *Platform*, *SRE* or *DevOps* in the title.
 
