@@ -7,6 +7,10 @@ I wanted to create software systems :computer: since I first used Visual Basic 6
 
 Most of my experience is within large, complex enterprise technology environments with lots of stakeholders & dependency & competing concerns :clipboard::comet::office::rainbow::crystal_ball:. Through this & wider learning I value all activities that can impact value streams :rocket:. Organisational design, team interactions, improvement processes etc. where bottlenecks :champagne: can often be identified & carefully adjusted.
 
+#### Now
+I am currently conciously building strong foundations as a technical leader by learning, doing & sharing in a variety of avenues. Going in to the future this will allow me to pivot with my organisation, the industry & my own curiosity from a position of strength & confidence.
+My current particular out-of-work learning focus is linux & security.
+
 #### Skills
 * Automation, cloud, containers, coding, linux, networking.
 * Operations, security, observability, reliability, FinOps, DX.
@@ -17,6 +21,9 @@ Most of my experience is within large, complex enterprise technology environment
 1. Building & operating internal software *platforms*.
 1. Infrastructure, operations, automation & non-functional requirements for custom software products.
 1. Custom development related to the areas I work in.
+
+#### Roles
+Something with *Systems*, *Platform*, *SRE* or *DevOps* in the title.
 
 #### Learning
 * Linux.
