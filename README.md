@@ -8,7 +8,7 @@ I wanted to create software systems :computer: since I first used Visual Basic 6
 Most of my experience is within large, complex enterprise technology environments with lots of stakeholders & dependency & competing concerns :clipboard::comet::office::rainbow::crystal_ball:. Through this & wider learning I value all activities that can impact value streams :rocket:. Organisational design, team interactions, improvement processes etc. where bottlenecks :champagne: can often be identified & carefully adjusted.
 
 #### Now
-I am consciously growing strong roots 🌳 as a technical leader by learning, doing & sharing in a variety of avenues. Going in to the future this will allow me to efficiently pivot with my organisation, the industry & my own curiosity from a position of strength & confidence. My current learning focus is linux & security.
+I am consciously growing strong roots 🌳 as a technical leader by learning, doing & sharing in a ranges of ways. Going in to the future this will allow me to efficiently pivot with my organisation, the industry & my own curiosity from a position of strength & confidence. My current learning focus is: security.
 
 #### Skills
 * Automation, cloud, containers, coding, linux, networking.
@@ -28,7 +28,7 @@ I am consciously growing strong roots 🌳 as a technical leader by learning, do
 * Performing & advocating for highly visible working practises as well as working with high diligence. Managing tasks, adding tests, explaining PRs, updating documentation, communicating widely etc. *No loose ends*!
 
 #### Roles
-Probably something with *Systems*, *Platform*, *SRE* or *DevOps* in the title.
+Probably something with *Systems*, *Production*, *Platform*, *SRE* or *DevOps* in the title.
 
 #### Other
 * I strongly advocate for continual, sustainable, incremental improvement as *generally* the best method to achieve any goal. 
