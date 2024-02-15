@@ -8,7 +8,7 @@ I wanted to create software systems :computer: since I first used Visual Basic 6
 Most of my experience is within large, complex enterprise technology environments with lots of stakeholders & dependency & competing concerns :clipboard::comet::office::rainbow::crystal_ball:. Through this & wider learning I value all activities that can impact value streams :rocket:. Organisational design, team interactions, improvement processes etc. where bottlenecks :champagne: can often be identified & carefully adjusted.
 
 #### Now
-I am consciously growing strong roots 🌳 as a technical leader by learning, doing & sharing in a ranges of ways. Going in to the future this will allow me to efficiently pivot with my organisation, the industry & my own curiosity from a position of strength & confidence. My current learning focus is: security.
+I am consciously growing strong roots 🌳 as a technical leader by learning, doing & sharing in a range of ways. Going in to the future this will allow me to efficiently pivot with my organisation, the industry & my own curiosity from a position of strength & confidence. Currently learning: cloud security.
 
 #### Skills
 * Automation, cloud, containers, coding, linux, networking.
@@ -16,15 +16,15 @@ I am consciously growing strong roots 🌳 as a technical leader by learning, do
 * Coaching, collaboration, improvement, leadership.
 
 #### Work
-* Engineering management.
-* Building & operating internal software *platforms*.
+* Technical product management & engineering people management.
+* Designing, building & operating internal software *platforms*.
 * Infrastructure, operations, automation & non-functional requirements for custom software products.
 * Custom development related to the areas I work in.
 
 #### Good at
-* Breaking down large ambiguous problem spaces into workable units.
-* Maintaining focus on value. Exercising good judgement on: what is *good enough*; when unplanned work needs to be adopted or resisted; effort / complexity vs value; when more information is needed; the utility of favours.
-* Identifying problems & opportunities in sociotechnical systems. Finding quick wins. Creating workarounds, tactics, strategies. Technical debt management; particularly removing things at multiple levels.
+* Breaking down large, ambiguous problem spaces into workable units.
+* Maintaining focus on value. Exercising good judgement on: what is *good enough*; when unplanned work needs to be adopted or resisted; effort / complexity vs value; when more information is needed to proceed.
+* Identifying opportunities in sociotechnical systems. Finding quick wins. Creating workarounds, tactics, strategies. Technical debt management - particularly removing, cleaning, tidying.
 * Performing & advocating for highly visible working practises as well as working with high diligence. Managing tasks, adding tests, explaining PRs, updating documentation, communicating widely etc. *No loose ends*!
 
 #### Roles
