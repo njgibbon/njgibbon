@@ -8,11 +8,11 @@ I wanted to create software systems :computer: since I first used Visual Basic 6
 Most of my experience is within large, complex enterprise technology environments with lots of stakeholders & dependency & competing concerns :clipboard::comet::office::rainbow::crystal_ball:. Through this & wider learning I value all activities that can impact value streams :rocket:. Organisational design, team interactions, improvement processes etc. where bottlenecks :champagne: can often be identified & carefully adjusted.
 
 #### Now
-I am consciously growing strong roots 🌳 as a technical leader by learning, doing & sharing in a range of ways. Going in to the future this will allow me to efficiently pivot with my organisation, the industry & my own curiosity from a position of strength & confidence. Currently learning: cloud security.
+I am consciously growing strong roots 🌳 as a technical leader in a range of ways. Going in to the future this will allow me to most efficiently pivot with the industry, my organisation & my own curiosity. My intention is to soon double down on custom development & knowledge sharing. My current learning plan includes enterprise architecture, networking, multi-cloud, service mesh & GitOps.
 
 #### Skills
-* Automation, cloud, containers, coding, linux, networking.
-* Operations, security, observability, reliability, FinOps, DX.
+* Automation, CICD, IAC, cloud, containers, coding, linux, networking.
+* Operations, reliability, security, observability, performance, FinOps, DX.
 * Coaching, collaboration, improvement, leadership.
 
 #### Work
