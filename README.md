@@ -15,7 +15,6 @@ Outside of technology I like dogs 🐕🐕‍🦺, health :herb::muscle:, footba
 Thank you for taking the time! :beers:   
 Nick.
 
-#### Links
 **Site**: https://pareture.xyz  
 **Blog**: https://medium.com/@njgibbon  
 **LinkedIn**: https://www.linkedin.com/in/nick-gibbon-b87121172
