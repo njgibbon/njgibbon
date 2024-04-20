@@ -8,9 +8,9 @@ I try to continously learn as I do believe knowledge is power :crystal_ball: & d
 
 I'm versatile & pragmatic & am good at not getting too overwhelmed :cyclone: with big problem spaces, decomposing work, & making architectural transitions with as little disruption as feasible.
 
-As I get older & wiser I'm less attached to particular tools & products in general but I do like working in & aroud the kubernetes ecosystem ☸️🌍.
+As I get older & wiser 🧙 I'm less attached to particular tools & products in general but I do like working in & aroud the kubernetes ecosystem ☸️🌍.
 
-Outside of technology I like dogs 🐕🐕‍🦺, health :herb::muscle:, football :soccer:, reading :scroll: & lots of normal things :tv::cocktail:. I'm mainly concerned about living a balanced life :balance_scale: where my time :watch: is aligned with my values.
+Outside of technology I like dogs 🐕🐕‍🦺, health :herb::muscle:, football :soccer:, reading :scroll: & lots of normal things :tv::cocktail:.
 
 Thank you for taking the time! :beers:   
 Nick.
