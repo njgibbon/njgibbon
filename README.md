@@ -1,6 +1,6 @@
 Hello,
 
-I'm Nick & I live in London in the UK. :city_sunrise:
+I'm Nick & I live in London in the UK :city_sunrise:.
 
 I am an engineer & manager in cloud infrastructure, platforms & tools :wrench:. Heavily in to automation, operations, reliability, security & observability. At any point in time my role will probably have *Systems* / *Production* / *Platform* / *Reliability* / *DevOps* in the title. I'm also in to DX, FinOps :moneybag:, technical product management, collaboration, improvement, leadership & many other things. Really I have always been unavoidably interested in e2e delivery & am compelled to help improve value streams however is needed. 
 
