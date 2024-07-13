@@ -10,7 +10,7 @@ I'm versatile & pragmatic & am good at not getting too overwhelmed :cyclone: wit
 
 As I get older & wiser 🧙 I'm less attached to particular tools & products in general but I do like working in & around the kubernetes ecosystem ☸️🌍.
 
-I advocate for fair worker treatment & encourage a jolly :santa:, empathetic environment. High-performance does not need to be unkind!
+I advocate for fair worker treatment & encourage a jolly :santa:, empathetic, sustainable environment.
 
 Outside of technology I like dogs 🐕🐕‍🦺, health :herb::muscle:, football :soccer:, reading :scroll: & lots of normal things :tv::cocktail:.
 
